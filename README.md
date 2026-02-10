@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hola, soy Miguel Contreras
 
-<!--
-**mcontrerasjaen/mcontrerasjaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Gamer & Streamer | 💻 Junior Full Stack Developer  
 
-Here are some ideas to get you started:
+Soy un desarrollador Full Stack junior, terminando mi formación y construyendo proyectos reales para mejorar mis habilidades.  
+Disfruto trabajando tanto en frontend como en backend, aprendiendo nuevas tecnologías y aplicándolas a proyectos prácticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
+- **Backend:** Node.js, Python
+- **Tools:** Git, GitHub
+
+---
+
+## 🚀 Lo que estoy haciendo ahora
+- Terminando mi formación como Full Stack Developer
+- Construyendo proyectos personales
+- Mejorando mi flujo de trabajo en Git & GitHub
+- Streaming de gaming en Twitch 🎮
+
+---
+
+## 🧠 Experiencia técnica adicional
+- Montaje y mantenimiento de PCs
+- Sistema de refrigeración líquida custom (self-built)
+- Conocimiento sólido de componentes y rendimiento de computadoras
+
+---
+
+## 📫 Contacto
+- GitHub: [mcontrerasjaen](https://github.com/mcontrerasjaen)
+- LinkedIn: (añadir enlace cuando quieras)
+- Discord: (opcional)
