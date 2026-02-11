@@ -2,7 +2,7 @@
 
 🎮 Gamer & Streamer | 💻 Junior Full Stack Developer  
 
-Soy un desarrollador Full Stack junior, terminando mi formación y construyendo proyectos reales para mejorar mis habilidades.  
+Soy un desarrollador Full Stack junior, terminando mi formación (en 4Geeks Academy) y construyendo proyectos reales para mejorar mis habilidades.  
 Disfruto trabajando tanto en frontend como en backend, aprendiendo nuevas tecnologías y aplicándolas a proyectos prácticos.
 
 ---
@@ -31,5 +31,5 @@ Disfruto trabajando tanto en frontend como en backend, aprendiendo nuevas tecnol
 
 ## 📫 Contacto
 - GitHub: [mcontrerasjaen](https://github.com/mcontrerasjaen)
-- LinkedIn: (añadir enlace cuando quieras)
-- Discord: (opcional)
+- LinkedIn: www.linkedin.com/in/miguel-c-98101566
+- Discord: (opcional) 
