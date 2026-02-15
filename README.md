@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=250&section=header&text=Miguel%20Contreras%20Gallardo&desc=Full%20Stack%20Developer&descAlignY=65&fontSize=40&fontColor=ffffff&animation=fadeIn)
-
+<p align="center">
+  <img src="./banner.png" alt="Miguel Contreras Banner" />
+</p>
 # 💻 Desarrollador Full Stack
 
 Apasionado por el desarrollo web y actualmente finalizando un Máster en Full Stack.  
