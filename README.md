@@ -69,20 +69,14 @@ I am looking to join a development team where I can contribute my knowledge in F
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td style="padding: 15px;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mcontrerasjaen" alt="GitHub Stats" height="150" />
-      </td>
-      <td style="padding: 15px;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mcontrerasjaen" alt="Top Languages" height="150" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+<a href="https://github.com/mcontrerasajaen">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mcontrerasjaen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mcontrerasjaen&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ---
 
