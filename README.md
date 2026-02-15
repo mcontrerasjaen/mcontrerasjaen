@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=220&section=header&text=Miguel%20Contreras%20Gallardo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=250&section=header&text=Miguel%20Contreras%20Gallardo&desc=Full%20Stack%20Developer&descAlignY=65&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 # 💻 Desarrollador Full Stack
 
