@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I´am Miguel Contreras</h1>
+<h1 align="center">👋 Hi, I´m Miguel Contreras</h1>
 
 <p align="center">
   <img src="./Banner full stack GitHub modiicado.png" alt="Miguel Contreras Banner" />
@@ -71,7 +71,7 @@ I am looking to join a development team where I can contribute my knowledge in F
 
 ## 📊 GitHub Statistics
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcontrerasjaen&show_icons=true&theme=tokyonight)
+[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcontrerasajen)](https://github.com/mcontrerasjaen/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcontrerasjaen&layout=compact&theme=tokyonight)
 
