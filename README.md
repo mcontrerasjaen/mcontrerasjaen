@@ -78,7 +78,7 @@ I am looking to join a development team where I can contribute my knowledge in F
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mcontrerasjaen" alt="GitHub Stats" height="150" />
       </td>
       <td style="padding: 15px;">
-        <img src="https://ggithub-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mcontrerasjaen" alt="Top Languages" height="150" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mcontrerasjaen" alt="Top Languages" height="150" />
       </td>
     </tr>
   </table>
