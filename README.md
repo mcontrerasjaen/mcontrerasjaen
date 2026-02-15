@@ -71,9 +71,9 @@ I am looking to join a development team where I can contribute my knowledge in F
 
 ## 📊 GitHub Statistics
 
-[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcontrerasajen)](https://github.com/mcontrerasjaen/github-readme-stats)
+[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcontrerasjaen)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcontrerasjaen&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcontrerasjaen)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
