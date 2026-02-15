@@ -1,35 +1,75 @@
-# 👋 Hola, soy Miguel Contreras
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=220&section=header&text=Miguel%20Contreras%20Gallardo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
-🎮 Gamer & Streamer | 💻 Junior Full Stack Developer  
+# 💻 Desarrollador Full Stack
 
-Soy un desarrollador Full Stack junior, terminando mi formación (en 4Geeks Academy) y construyendo proyectos reales para mejorar mis habilidades.  
-Disfruto trabajando tanto en frontend como en backend, aprendiendo nuevas tecnologías y aplicándolas a proyectos prácticos.
+Apasionado por el desarrollo web y actualmente finalizando un Máster en Full Stack.  
+Enfocado en construir aplicaciones modernas, escalables y bien estructuradas utilizando tecnologías actuales del ecosistema JavaScript y Python.
 
----
-
-## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
-- **Backend:** Node.js, Python
-- **Tools:** Git, GitHub
+📍 España  
+✉️ mcontrerasjaen@gmail.com  
+🔗 [Portfolio Web](https://tu-portfolio-link.com)  
+🔗 [LinkedIn](https://linkedin.com/in/tu-linkedin)  
 
 ---
 
-## 🚀 Lo que estoy haciendo ahora
-- Terminando mi formación como Full Stack Developer
-- Construyendo proyectos personales
-- Mejorando mi flujo de trabajo en Git & GitHub
-- Streaming de gaming en Twitch 🎮
+## 🚀 Tecnologías principales
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-API-000000?logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Backend-3776AB?logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-DevOps-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-VersionControl-F05032?logo=git&logoColor=white)
 
 ---
 
-## 🧠 Experiencia técnica adicional
-- Montaje y mantenimiento de PCs
-- Sistema de refrigeración líquida custom (self-built)
-- Conocimiento sólido de componentes y rendimiento de computadoras
+## 📂 Proyectos Destacados
+
+### 🔹 Gestor de Tareas Full Stack
+Aplicación web con autenticación de usuarios y CRUD completo.
+- React + Node + Express + MongoDB
+- API REST estructurada
+- Gestión segura de sesiones
+
+### 🔹 E-commerce con Flask
+Tienda online con base de datos relacional.
+- Python + Flask + MySQL
+- Gestión de productos y pedidos
+- Sistema de usuarios
+
+### 🔹 Portfolio Personal (React)
+Web profesional para mostrar proyectos y experiencia.
+- React + TailwindCSS
+- Diseño responsive
+- Deploy en GitHub Pages / Vercel
 
 ---
 
-## 📫 Contacto
-- GitHub: [mcontrerasjaen](https://github.com/mcontrerasjaen)
-- LinkedIn: www.linkedin.com/in/miguel-c-98101566
-- Discord: (opcional) 
+## 🎯 Objetivo Profesional
+
+Busco incorporarme a un equipo de desarrollo donde pueda aportar mis conocimientos en desarrollo Full Stack, aprender de entornos profesionales reales y seguir creciendo técnicamente.
+
+---
+
+## 📊 Estadísticas GitHub
+
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcontrerasjaen&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcontrerasjaen&layout=compact&theme=tokyonight)
+
+---
+
+## 🧠 Actualmente aprendiendo
+
+- Arquitectura limpia en aplicaciones web
+- Testing en frontend y backend
+- Mejores prácticas en APIs REST
+- Optimización de rendimiento
+
+---
+
+⭐ Siempre abierto a colaborar en proyectos interesantes.
+
