@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./banner.png" alt="Miguel Contreras Banner" />
-</p>
+
 # 💻 Desarrollador Full Stack
 
 Apasionado por el desarrollo web y actualmente finalizando un Máster en Full Stack.  
