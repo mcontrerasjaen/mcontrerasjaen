@@ -1,19 +1,29 @@
+<h1 align="center">👋 Hi, I´am Miguel Contreras</h1>
+
 <p align="center">
   <img src="./Banner full stack GitHub modiicado.png" alt="Miguel Contreras Banner" />
 </p>
-# 💻 Desarrollador Full Stack
+<h1 align="center"># 💻 Junior Full Stack developer</h1>
 
-Apasionado por el desarrollo web y actualmente finalizando un Máster en Full Stack.  
-Enfocado en construir aplicaciones modernas, escalables y bien estructuradas utilizando tecnologías actuales del ecosistema JavaScript y Python.
+<!-- BREVE DESCRIPCION -->
+<h3 align="left">About me:</h3>
+Passionate about web development and currently completing a Full Stack Master's degree.
+Focused on building modern, scalable, and well-structured applications using current technologies from the JavaScript and Python ecosystem. <br>
+- 📍 Spain (Madrid) <br>
+- ✉️ mcontrerasjaen@gmail.com  
 
-📍 España  
-✉️ mcontrerasjaen@gmail.com  
-🔗 [Portfolio Web](https://tu-portfolio-link.com)  
-🔗 [LinkedIn](https://linkedin.com/in/tu-linkedin)  
-
+<!-- CONTACTO -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/miguel-c-98101566/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
+<a href="https://discord.com/users/1025451490745258095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
+<a href="https://x.com/MiguelinC77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
+<a href="https://www.instagram.com/elsurvi77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
+</p>
+ 
 ---
-
-## 🚀 Tecnologías principales
+<!-- LENGUAJES Y HERRAMIENTAS -->
+## 🚀 Main TECH
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black)
@@ -27,35 +37,38 @@ Enfocado en construir aplicaciones modernas, escalables y bien estructuradas uti
 
 ---
 
-## 📂 Proyectos Destacados
+## 📂 Featured Projects
 
-### 🔹 Gestor de Tareas Full Stack
-Aplicación web con autenticación de usuarios y CRUD completo.
+### 🔹 Full Stack Task Manager
+Web application with user authentication and full CRUD functionality.
+
 - React + Node + Express + MongoDB
-- API REST estructurada
-- Gestión segura de sesiones
+- Structured REST API
+- Secure session management
 
-### 🔹 E-commerce con Flask
-Tienda online con base de datos relacional.
+### 🔹 E-commerce with Flask
+Online store with a relational database.
+
 - Python + Flask + MySQL
-- Gestión de productos y pedidos
-- Sistema de usuarios
+- Product and order management
+- User system
 
-### 🔹 Portfolio Personal (React)
-Web profesional para mostrar proyectos y experiencia.
-- React + TailwindCSS
-- Diseño responsive
-- Deploy en GitHub Pages / Vercel
+### 🔹 Personal Portfolio (React)
+Professional website to showcase projects and experience.
 
----
-
-## 🎯 Objetivo Profesional
-
-Busco incorporarme a un equipo de desarrollo donde pueda aportar mis conocimientos en desarrollo Full Stack, aprender de entornos profesionales reales y seguir creciendo técnicamente.
+- React + Tailwind CSS
+- Responsive design
+- Deployed on GitHub Pages / Vercel
 
 ---
 
-## 📊 Estadísticas GitHub
+## 🎯 Professional Objective
+
+I am looking to join a development team where I can contribute my knowledge in Full Stack development, learn from real professional environments, and continue to grow technically.
+
+---
+
+## 📊 GitHub Statistics
 
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcontrerasjaen&show_icons=true&theme=tokyonight)
 
@@ -63,14 +76,15 @@ Busco incorporarme a un equipo de desarrollo donde pueda aportar mis conocimient
 
 ---
 
-## 🧠 Actualmente aprendiendo
+## 🧠 Currently learning:
 
-- Arquitectura limpia en aplicaciones web
-- Testing en frontend y backend
-- Mejores prácticas en APIs REST
-- Optimización de rendimiento
+- Clean architecture in web applications
+- Frontend and backend testing
+- Best practices in REST APIs
+- Performance optimization
 
 ---
 
-⭐ Siempre abierto a colaborar en proyectos interesantes.
+Credits: [Miguel Contreras](https://github.com/mcontrerasjaen)
+Last Edited on: 15/02/2026
 
