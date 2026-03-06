@@ -31,7 +31,7 @@ Focused on building modern, scalable, and well-structured applications using cur
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-API-000000?logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Backend-3776AB?logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white)
+![PostgresDB](https://img.shields.io/badge/PostgresDB-Database-47A248?logo=Postgresdb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-DevOps-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-VersionControl-F05032?logo=git&logoColor=white)
