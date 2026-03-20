@@ -1,36 +1,96 @@
-# 🏁 [StarWars AppWeb v.1.0.0] - Finalizado ✅
+<h1 align="center">👋 Hi, I´m Miguel Contreras</h1>
 
-Este proyecto es una aplicación web multipágina construida con **React JS** y gestionada íntegramente mediante un tablero de **GitHub Projects** (estado: **Done**).
+<p align="center">
+  <img src="./Banner full stack GitHub modiicado.png" alt="Miguel Contreras Banner" />
+</p>
+<h1 align="center"># 💻 Junior Full Stack developer</h1>
 
-## 📊 Gestión del Proyecto
-El desarrollo se ha seguido de forma ágil. Puedes ver el historial de tareas y el estado final aquí:
-👉 **[Ver Tablero del Proyecto (Done)](https://github.com/mcontrerasjaen/react-hello-webapp-StarWars-Miguel-Contreras))**
+<!-- BREVE DESCRIPCION -->
+<h3 align="left">About me:</h3>
+Passionate about web development and currently completing a Full Stack Master's degree.
+Focused on building modern, scalable, and well-structured applications using current technologies from the JavaScript and Python ecosystem. <br>
+- 📍 Spain (Madrid) <br>
+- ✉️ mcontrerasjaen@gmail.com  
+
+<!-- CONTACTO -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/miguel-c-98101566/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel contreras gallardo" height="30" width="40" /></a>
+<a href="https://discord.com/users/1025451490745258095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
+<a href="https://x.com/MiguelinC77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@miguelinC77" height="30" width="40" /></a>
+<a href="https://www.instagram.com/elsurvi77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elsurvi77" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@elsurvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elsurvi" height="30" width="40" /></a>
+</p>
+
+---
+<!-- LENGUAJES Y HERRAMIENTAS -->
+## 🚀 Main TECH
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-API-000000?logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Backend-3776AB?logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white)
+![PostgresDB](https://img.shields.io/badge/PostgresDB-Database-47A248?logo=Postgresdb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-DevOps-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-VersionControl-F05032?logo=git&logoColor=white)
 
 ---
 
-## 🚀 Sobre el Proyecto
-El proyecto se basa en una aplicacion web donde podemos encontrar informacion acerca del contenido de StarWars mediante una API.
-Podemos obtener informacion detallada de cada elemento y guardarla en favoritos.
+## 📂 Featured Projects
 
-### 🛠️ Tecnologías y Herramientas
-* **Frontend:** React.js & Vite
-* **Estado Global:** Context API con `useReducer`
-* **Estilos:** CSS3 / Bootstrap
-* **Despliegue:** Vercel
+### 🔹 Full Stack Task Manager
+Web application with user authentication and full CRUD functionality.
 
-## ⚙️ Cómo ejecutar este proyecto localmente
-Si quieres probar el código en tu máquina:
+- React + Node + Express + MongoDB
+- Structured REST API
+- Secure session management
 
-1. **Clona el repo:** `git clone [https://github.com](https://github.com/mcontrerasjaen/react-hello-webapp-StarWars-Miguel-Contreras)`
-2. **Instala dependencias:** `npm install`
-3. **Configura el entorno:** Crea un archivo `.env` basado en `.env.example`
-4. **Lanza la app:** `npm run start`
+### 🔹 E-commerce with Flask
+Online store with a relational database.
+
+- Python + Flask + MySQL
+- Product and order management
+- User system
+
+### 🔹 Personal Portfolio (React)
+Professional website to showcase projects and experience.
+
+- React + Tailwind CSS
+- Responsive design
+- Deployed on GitHub Pages / Vercel
 
 ---
-## 👤 Autor
-**Miguel Contreras** - *Junior Full Stack Developer*
-🔗 [Mi Perfil Principal](ttps://github.com/mcontrerasjaen) | [LinkedIn][(https://www.linkedin.com](https://www.linkedin.com/in/miguel-c-98101566/))
 
-*Proyecto finalizado el 19/03/2026*
+## 🎯 Professional Objective
+
+I am looking to join a development team where I can contribute my knowledge in Full Stack development, learn from real professional environments, and continue to grow technically.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/mcontrerasajaen">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mcontrerasjaen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mcontrerasjaen&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+---
+
+## 🧠 Currently learning:
+
+- Clean architecture in web applications
+- Frontend and backend testing
+- Best practices in REST APIs
+- Performance optimization
+
+---
+
+Credits: [Miguel Contreras](https://github.com/mcontrerasjaen)
+Last Edited on: 15/02/2026
 
 
