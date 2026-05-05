@@ -61,8 +61,8 @@ Currently finalizing a **Full Stack Master's degree**, I combine my background i
 - **Key Features:** JWT Authentication, RESTful API, and full CRUD functionality.
 - [🔗 Live Demo](https://autenticaci-n-jwt-con-flask-y-react.vercel.app) | [📁 Source Code](https://github.com/mcontrerasjaen/Autenticaci-n-JWT-con-Flask-y-React-Miguel-Contreras)
 
-### 🔹 E-commerce with Flask
-*Scalable e-commerce platform with a focus on backend logic.*
+### 🔹Healthcare Management System
+*Scalable comprehensive Primary Care booking platform. Features automated appointment scheduling, patient management, and real-time medical statistics dashboard.*
 - **Tech Stack:** Python, Flask, MySQL, PostgreSQL.
 - **Key Features:** User session management, inventory control, and advanced search filters.
 - [🔗 Live Demo](https://spain-fs-pt-130-gecap-p5fx.onrender.com) | [📁 Source Code](https://github.com/mcontrerasjaen/spain-fs-pt-130-Gecap)
