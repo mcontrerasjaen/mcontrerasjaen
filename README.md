@@ -16,25 +16,27 @@ Currently finalizing a **Full Stack Master's degree**, I combine my background i
 <!-- CONTACTO -->
 ### 🔗 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/miguel-c-98101566/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel contreras gallardo" height="30" width="40" /></a>
-<a href="https://discord.com/users/1025451490745258095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
-<a href="https://x.com/MiguelinC77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@miguelinC77" height="30" width="40" /></a>
-<a href="https://www.instagram.com/elsurvi77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elsurvi77" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@elsurvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elsurvi" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/miguel-c-98101566/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel contreras gallardo" height="30" width="40" /></a>
+  <a href="https://discord.com/users/1025451490745258095" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
+  <a href="https://x.com/MiguelinC77" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@miguelinC77" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/elsurvi77/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elsurvi77" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@elsurvi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elsurvi" height="30" width="40" /></a>
 </p>
 
 ---
 <!-- LENGUAJES Y HERRAMIENTAS -->
 ## 🚀 Main Tech Stack
 
-![JavaScript](https://shields.io)
-![React](https://shields.io)
-![Node.js](https://shields.io)
-![Express](https://shields.io)
-![Python](https://shields.io)
-![MongoDB](https://shields.io)
-![PostgreSQL](https://shields.io)
-![Docker](https://shields.io)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-API-000000?logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Backend-3776AB?logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white)
+![PostgresDB](https://img.shields.io/badge/PostgresDB-Database-47A248?logo=Postgresdb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-DevOps-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-VersionControl-F05032?logo=git&logoColor=white)
 
 ---
 
