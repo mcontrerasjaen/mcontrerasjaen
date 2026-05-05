@@ -9,14 +9,18 @@
 <h3 align="left">About me:</h3>
 Passionate developer focused on building modern, scalable, and well-structured applications. 
 Currently finalizing a **Full Stack Master's degree**, I combine my background in operations with the JavaScript and Python ecosystem.<br>
-- 📍 **Location:** Madrid, Spain
-- ✉️ **Contact:** [mcontrerasjaen@gmail.com](mailto:mcontrerasjaen@gmail.com)
+- 📍 **Location:** Madrid, Spain<br>
+- ✉️ **Contact:** [mcontrerasjaen@gmail.com](mailto:mcontrerasjaen@gmail.com)<br>
 - 🚀 **Goal:** Building efficient solutions through clean code and SOLID principles. 
 
 <!-- CONTACTO -->
 ### 🔗 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/miguel-c-98101566/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel contreras gallardo" height="30" width="40" /></a><a href="https://discord.com/users/1025451490745258095" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a><a href="https://x.com/MiguelinC77" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@miguelinC77" height="30" width="40" /></a><a href="https://www.instagram.com/elsurvi77/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elsurvi77" height="30" width="40" /></a><a href="https://www.youtube.com/@elsurvi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elsurvi" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/miguel-c-98101566/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel contreras gallardo" height="30" width="40" /></a>
+  <a href="https://discord.com/users/1025451490745258095" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
+  <a href="https://x.com/MiguelinC77" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@miguelinC77" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/elsurvi77/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elsurvi77" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@elsurvi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elsurvi" height="30" width="40" /></a>
 </p>
 
 ---
