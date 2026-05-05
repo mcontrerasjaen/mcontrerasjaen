@@ -19,7 +19,7 @@ Currently finalizing a **Full Stack Master's degree**, I combine my background i
 <table border="0">
   <tr>
     <td>
-      <a href="https://www.linkedin.com/in/miguel-c-98101566/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel contreras gallardo" height="30" width="40" /></a>
+      <a href="https://www.linkedin.com/in/miguel-c-98101566" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel contreras gallardo" height="30" width="40" /></a>
     </td>
     <td>
       <a href="https://discord.com/users/1025451490745258095" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
@@ -28,7 +28,7 @@ Currently finalizing a **Full Stack Master's degree**, I combine my background i
       <a href="https://x.com/MiguelinC77" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@miguelinC77" height="30" width="40" /></a>
     </td>
     <td>
-      <a href="https://www.instagram.com/elsurvi77/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elsurvi77" height="30" width="40" /></a>
+      <a href="https://www.instagram.com/elsurvi77" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elsurvi77" height="30" width="40" /></a>
     </td>
     <td>
       <a href="https://www.youtube.com/@elsurvi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elsurvi" height="30" width="40" /></a>
