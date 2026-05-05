@@ -3,7 +3,7 @@
 <p align="center">
   <img src="./Banner full stack GitHub modiicado.png" alt="Miguel Contreras Banner" />
 </p>
-<h1 align="center"># 💻 Junior Full Stack developer</h1>
+<h1 align="center"># 💻 Full Stack developer</h1>
 
 <!-- BREVE DESCRIPCION -->
 <h3 align="left">About me:</h3>
